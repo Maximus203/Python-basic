@@ -1,2 +1,2 @@
 # Python basic
- Dans ce repository vous trouverez mes exercices pour pratiquer le language chaque jour.
+In this repository you will find my exercises to practice the language every day.
