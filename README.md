@@ -1,2 +1,2 @@
 # Python basic
-In this repository you will find my exercises to practice the language every day.
+Dans cette repo vous trouverez quelques code python fait en vue de pratiquer le langage.
